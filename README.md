@@ -103,5 +103,13 @@
 > “Data is the new oil, but intelligence is the refinery.” — Aya Amin  
 
 ---
+---
+
+### 🟩 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIASoul&theme=github-dark&hide_border=true&area=true" alt="Aya Amin's GitHub Activity Graph" />
+</p>
 
 <p align="center">✨ Designed with passion by <b>@RIASoul</b> | Future Data & AI Engineer ✨</p>
+
