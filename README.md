@@ -19,13 +19,21 @@
 
 🎓 5th-year Computer Engineering student (MIAGE / Informatique & Réseaux) at **EMSI Rabat**  
 💼 Passionate about **Data Engineering**, **Artificial Intelligence**, **Business Intelligence**, and **Full-Stack Development**  
-🧠 Currently working on:
-- 🧬 **AI Platform for Alzheimer Detection** (Flask + CNN/ResNet + Kaggle MRI Dataset)  
-- ☁️ **Microservices HR System** (Spring Boot 3, Spring Cloud, Angular, MySQL, JWT)  
-- 📊 **Power BI Dashboards for the Moroccan HCP** – Data Modeling, DAX & UX Design  
-⚙️ Learning advanced **Azure**, **Databricks**, and **Cloud Data Architecture**  
-💬 Ask me about **ETL pipelines**, **API design**, **Model training**, or **DAX optimization**  
-🌍 Open to PFE internship opportunities starting **February 2026**
+
+### 🧠 My Journey & Ongoing Work
+
+✅ **AI Platform for Alzheimer Detection** — Completed  
+Built a web-based AI system using **Flask**, **CNN/ResNet**, and MRI datasets from **Kaggle** to detect and analyze Alzheimer’s disease.  
+
+✅ **Power BI Dashboards for the Moroccan HCP** — Completed  
+Designed and optimized **interactive dashboards** for survey analysis, with **DAX measures**, **data modeling**, and **UX-focused design** for decision-making.  
+
+⚙️ **Currently Learning**  
+Exploring **Azure**, **Databricks**, and **Cloud Data Architecture** to strengthen my Data Engineering and MLOps skills.  
+
+🌍 **Open to PFE Internship Opportunities**  
+Looking for a 6-month internship starting **February 2026**, in **Data Engineering**, **AI**, or **Business Intelligence**.  
+
 
 <p align="center">
   <a href="https://flowcv.com/resume/5f208goq4vso" target="_blank">
