@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aya Amin</h1>
-<h3 align="center">🚀 Data & AI Engineer | Full-Stack Developer | Business Intelligence Enthusiast</h3>
+<h3 align="center">🚀 Future Data & AI Engineer | 💻 Full-Stack Developer | 📊 Business Intelligence Innovator</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/aya-amin-070416219" target="_blank">
@@ -20,13 +21,7 @@
 🎓 5th-year Computer Engineering student (MIAGE / Informatique & Réseaux) at **EMSI Rabat**  
 💼 Passionate about **Data Engineering**, **Artificial Intelligence**, **Business Intelligence**, and **Full-Stack Development**  
 
-### 🧠 My Journey & Ongoing Work
-
-✅ **AI Platform for Alzheimer Detection** — Completed  
-Built a web-based AI system using **Flask**, **CNN/ResNet**, and MRI datasets from **Kaggle** to detect and analyze Alzheimer’s disease.  
-
-✅ **Power BI Dashboards for the Moroccan HCP** — Completed  
-Designed and optimized **interactive dashboards** for survey analysis, with **DAX measures**, **data modeling**, and **UX-focused design** for decision-making.  
+### 🧠 My Journey & Ongoing Work 
 
 ⚙️ **Currently Learning**  
 Exploring **Azure**, **Databricks**, and **Cloud Data Architecture** to strengthen my Data Engineering and MLOps skills.  
