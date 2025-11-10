@@ -34,7 +34,7 @@ Looking for a 6-month internship starting **February 2026**, in **Data Engineeri
   <a href="https://flowcv.com/resume/5f208goq4vso" target="_blank">
     <img src="https://img.shields.io/badge/📄%20My%20CV-1E90FF?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
-  <a href="https://ayaportfolio.vercel.app/" target="_blank">
+  <a href="https://aya-amin-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-20C997?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
