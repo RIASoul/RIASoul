@@ -24,7 +24,7 @@
 ### 🧠 My Journey & Ongoing Work 
 
 ⚙️ **Currently Learning**  
-Exploring **Azure**, **Databricks**, and **Cloud Data Architecture** to strengthen my Data Engineering and MLOps skills.  
+Exploring Databricks, Snowflake, dbt, and Apache Airflow to deepen my expertise in modern Data Engineering, cloud data architecture, and orchestration workflows, while strengthening my foundations in scalable analytics and MLOps practices.
 
 🌍 **Open to PFE Internship Opportunities**  
 Looking for a 6-month internship starting **February 2026**, in **Data Engineering**, **AI**, or **Business Intelligence**.  
