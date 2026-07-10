@@ -1,119 +1,217 @@
 <h1 align="center">Hi 👋, I'm Aya Amin</h1>
-<h3 align="center">🚀 Future Data & AI Engineer | 💻 Full-Stack Developer | 📊 Business Intelligence Innovator</h3>
 
+<h3 align="center">
+🚀 Data & AI Engineer • Data Engineering • Generative AI • Business Intelligence
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aya-amin-070416219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+Passionate about building intelligent data platforms, AI-powered applications, and scalable analytics solutions.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aya-amin-070416219">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:ayaamin.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/RIASoul" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=RIASoul&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+  <a href="https://github.com/RIASoul">
+    <img src="https://komarev.com/ghpvc/?username=RIASoul&style=for-the-badge&color=blueviolet"/>
   </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 5th-year Computer Engineering student (MIAGE / Informatique & Réseaux) at **EMSI Rabat**  
-💼 Passionate about **Data Engineering**, **Artificial Intelligence**, **Business Intelligence**, and **Full-Stack Development**  
+🎓 Computer Engineering Graduate (MIAGE – EMSI Rabat)
 
-### 🧠 My Journey & Ongoing Work 
+💡 Passionate about designing modern **Data Engineering**, **Artificial Intelligence**, and **Business Intelligence** solutions.
 
-⚙️ **Currently Learning**  
-Exploring **Databricks**, **Snowflake**, **dbt**, and **Apache Airflow** to deepen my expertise in modern **Data Engineering**, **cloud data architecture**, and **orchestration workflows**, while strengthening my foundations in scalable analytics and MLOps practices.
+I enjoy transforming raw data into valuable insights by combining:
 
-🌍 **Open to PFE Internship Opportunities**  
-Looking for a 6-month internship starting **February 2026**, in **Data Engineering**, **AI**, or **Business Intelligence**.  
+- Data Engineering
+- Machine Learning
+- Generative AI
+- Cloud Technologies
+- Business Intelligence
 
+I'm always looking for opportunities to learn new technologies and solve real-world business challenges through data.
+
+---
+
+# 🚀 Current Focus
+
+🌱 Currently expanding my expertise in
+
+- Databricks
+- Snowflake
+- dbt
+- Apache Airflow
+- Microsoft Fabric
+- Azure Data Platform
+
+while strengthening my knowledge of
+
+- Data Warehousing
+- ETL / ELT
+- Data Modeling
+- Cloud Data Architecture
+- MLOps
+- AI Engineering
+
+---
+
+# 💼 Looking For
+
+I'm currently open to opportunities as a
+
+- Junior Data Engineer
+- AI Engineer
+- Business Intelligence Engineer
+- Analytics Engineer
+
+Open to relocation across Europe.
+
+---
+
+# 📄 Resume & Portfolio
 
 <p align="center">
-  <a href="https://flowcv.com/resume/5f208goq4vso" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20My%20CV-1E90FF?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-  <a href="https://ayaamin.netlify.app/en/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-20C997?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+<a href="https://flowcv.com/resume/5f208goq4vso">
+<img src="https://img.shields.io/badge/📄 Resume-1E90FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<a href="https://ayaamin.netlify.app/en/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-20C997?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 🧩 Tech Stack
+# 🧠 Technical Skills
 
-<div align="center">
+## Programming Languages
 
-#### 🧠 AI / Data Science
+<p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 
-#### 📊 Data Engineering / Business Intelligence
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"/>
-
-
-#### 💻 Backend / Full-Stack Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+
+</p>
+
+---
+
+## Data Engineering
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
+
+</p>
+
+**Also learning**
+
+- Databricks
+- dbt
+- Snowflake
+- Airflow
+
+---
+
+## Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LLMs
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- OCR Pipelines
+- Semantic Search
+- Vector Databases
+
+---
+
+## Backend Development
+
+<p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 
-#### 🧰 Tools & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🧠 Alzheimer_ai_app](https://github.com/RIASoul/Alzheimer_ai_app) | Flask web app for Alzheimer detection using deep learning (ResNet) | Python, Flask, CNN |
-| [📊 HCP Power BI Dashboards](https://github.com/RIASoul/PowerBI_Dashboards) | Analytical dashboards for Moroccan HCP surveys | Power BI, SQL, DAX |
-| [🏢 RH Microservices System](https://github.com/RIASoul/gestion-de-ressources-humaines-RH-) | HR management system with microservice architecture | Spring Boot, Angular, MySQL |
-| [📚 Gestion-bibliothèques](https://github.com/RIASoul/Gestion-bibliotheques) | Java desktop app for library management | Java, Swing, MySQL |
-| [💻 E-learning Platform](https://github.com/RIASoul/e-learning-plateforme-Java) | Online platform for course management | Java, HTML, CSS |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RIASoul&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RIASoul&theme=tokyonight" />
 </p>
 
 ---
 
-### 💬 Quote
-> “Data is the new oil, but intelligence is the refinery.” — Aya Amin  
+# ⭐ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🧠 Intelligent Tender Analysis Pipeline | AI-powered document processing pipeline using OCR, LLMs, Prompt Engineering and RAG for Moroccan public tenders |
+| 🧠 Alzheimer Detection System | Deep Learning application for Alzheimer's disease prediction from MRI scans |
+| 📊 HCP Business Intelligence Dashboards | Interactive Power BI dashboards for Moroccan High Commission for Planning surveys |
+| 🏢 HR Microservices Platform | Enterprise HR platform built with Spring Boot microservices |
+| 📚 Library Management System | Java Swing desktop application with MySQL backend |
 
 ---
----
 
-### 🟩 GitHub Contribution Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIASoul&theme=github-dark&hide_border=true&area=true" alt="Aya Amin's GitHub Activity Graph" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RIASoul&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RIASoul&theme=tokyonight"/>
+
 </p>
 
-<p align="center">✨ Designed with passion by <b>@RIASoul</b> | Future Data & AI Engineer ✨</p>
+---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIASoul&theme=github-dark&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> "Data tells the story. Artificial Intelligence gives it meaning."
+
+---
+
+<p align="center">
+
+⭐ If you like my work, feel free to connect or collaborate!
+
+</p>
