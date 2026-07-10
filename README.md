@@ -176,7 +176,6 @@ Open to relocation across Europe.
 |----------|-------------|
 | 🧠 Intelligent Tender Analysis Pipeline | AI-powered document processing pipeline using OCR, LLMs, Prompt Engineering and RAG for Moroccan public tenders |
 | 🧠 Alzheimer Detection System | Deep Learning application for Alzheimer's disease prediction from MRI scans |
-| 📊 HCP Business Intelligence Dashboards | Interactive Power BI dashboards for Moroccan High Commission for Planning surveys |
 | 🏢 HR Microservices Platform | Enterprise HR platform built with Spring Boot microservices |
 | 📚 Library Management System | Java Swing desktop application with MySQL backend |
 
